@@ -9,7 +9,7 @@ class App extends Component {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1 className="App-title">Welcome to my react app</h1>
-        Hiii
+        I was changed on the feature branch
         <a
           className="App-link"
           href="https://reactjs.org"
